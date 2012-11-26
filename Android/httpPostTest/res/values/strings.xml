@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, main!</string>
+    <string name="app_name">httpPostTest</string>
+    <string name="help_txt">請輸入文字以便使用POST傳送：</string>
+    <string name="txt_message_hint">請輸入文字</string>
+    <string name="send">送出</string>
+
+</resources>
